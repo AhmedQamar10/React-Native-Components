@@ -1,0 +1,40 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^31.0.2",
+    "i18next": "^13.0.0",
+    "i18next-react-native-language-detector": "^1.0.2",
+    "moment": "^2.23.0",
+    "native-base": "^2.8.1",
+    "react": "16.5.0",
+    "react-i18next": "^8.4.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-button": "^2.3.0",
+    "react-native-easy-grid": "^0.2.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-i18n": "^2.0.15",
+    "react-native-locale-detector": "^1.0.1",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-paper": "^2.4.0",
+    "react-native-progress": "^3.5.0",
+    "react-native-segmented-control-tab": "^3.3.1",
+    "react-native-slider": "^0.11.0",
+    "react-native-vector-icons": "^6.1.0",
+    "react-native-view-shot": "^2.5.0",
+    "react-native-webview": "^2.14.3",
+    "react-navigation": "1.0.0-beta.11",
+    "react-navigation-material-bottom-tabs": "0.1.2",
+    "sendbird": "^3.0.92"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
